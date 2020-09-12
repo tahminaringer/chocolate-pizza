@@ -78,9 +78,6 @@ main img:first-child {
 
 #container {
     clear: both;
-    /* margin: 200px auto;
-    width: 899px;
-    height: 305px; */
     position: relative;
 }
 
@@ -161,7 +158,6 @@ footer p {
     color: gray;
 }
 footer img {
-    /* margin-bottom: 20px; */
     position: absolute;
     bottom: 80px
 
