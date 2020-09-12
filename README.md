@@ -1,4 +1,8 @@
 # chocolate-pizza
 
-seth mcfeeters driver
-tahmina ringer navitor
+Seth Mcfeeters driver HTML
+Tahmina Ringer navitor 
+
+
+Tahmina Ringer driver CSS
+Seth Mcfeeters

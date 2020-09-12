@@ -1,0 +1,172 @@
+body {
+    margin: auto;
+    width: 901px;
+}
+
+#logo {
+    width:600px;
+    display: inline-block;
+    padding-top: 20px;
+}
+
+#logo img {
+    float: left;
+    margin-top: 50px;
+    padding-bottom: 20px;
+}
+#logo h1 {
+    padding-top: 20px;
+    margin-left: 50px;
+    margin-bottom: 0px;
+}
+
+#logo p {
+    margin-left: 50px;
+    margin-top: 0px;
+    padding-bottom: -5px;
+}
+
+main{
+    border-top: solid gray thick;
+    clear: both;
+}
+
+#social1 {
+    float: right;
+    padding-top: 100px;
+   
+}
+
+#social2 { 
+    float: right;
+    margin-left: 10px;
+    padding-top: 100px;
+
+}
+
+h2 {
+    font-size: 40px;
+    margin-bottom: 0px;
+}
+
+h3 {
+    margin-top: 0px;
+    font-size: 12px;
+    color: gray;
+}
+
+main img:first-child {
+    clear: both;
+    float: right;
+}
+
+#left {
+    width: 400px;
+}
+
+main img:first-child {
+    margin-left: 852px;
+    float:left;
+    padding-bottom: 0px;
+}
+
+#right p {
+    font-size: 10px;
+    color: gray;
+    padding-top: 0px;
+}
+
+#container {
+    clear: both;
+    /* margin: 200px auto;
+    width: 899px;
+    height: 305px; */
+    position: relative;
+}
+
+#container img {
+    width: 899px;
+    height: 305px;
+}
+
+#col1 {
+    position: absolute;
+    top: 0px;
+    left: 25px;
+    font-size: 25px;
+}
+
+#col2 {
+    position: absolute;
+    top: 0px;
+    right: 25px;
+    font-size: 25px;
+}
+
+article {
+   border-top: solid rgb(194, 188, 188) 10px;
+   margin-top: 25px;
+}
+
+#bottomlogo {
+    width: 600px;
+    display: inline-block;
+    padding-top: 20px;
+}
+
+#bottomlogo img {
+    float: left;
+    margin-top: 0px;
+
+}
+
+h4 {
+    font-size: 30px;
+    margin-bottom: 0px;
+}
+
+article p {
+    margin-top: 0px;
+    margin-left: 80px;
+    color: grey
+}
+
+ul {
+    list-style-type: square;
+}
+
+button {
+    float: right;
+    margin-top: 20px;
+    background-color: rgb(181, 103, 61);
+    color: white;
+    padding: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-size: 20px;
+}
+
+footer {
+    margin-top: 80px;
+    text-align: center;
+    border-top: solid grey 1px;
+    width: 901px;
+    height: 94px;
+    position: relative;
+}
+
+footer p {
+    margin-top: 20px;
+    margin-bottom: 0px;
+    color: gray;
+}
+footer img {
+    /* margin-bottom: 20px; */
+    position: absolute;
+    bottom: 80px
+
+}
+
+#copy {
+    margin-top: 0px;
+}
